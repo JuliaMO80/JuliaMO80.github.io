@@ -102,8 +102,8 @@ body.page-template-page-fullsingle-me {
   line-height: 60px;
   letter-spacing: -0.5px;
   color: #999999;
-  color: rgb(216, 42, 42);
-  background-image: url("../../images/vegetables.jpg");
+  color: #fff;
+  background-image: url("../../images/vegetab.jpg");
   background-position: center center;
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
